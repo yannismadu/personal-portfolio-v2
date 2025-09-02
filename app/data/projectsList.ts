@@ -53,16 +53,6 @@ export const projectsList: {
     image: monotaskrScreenshot,
   },
   {
-    title: "Calculator 2099",
-    repoURL: "https://github.com/yannismadu/calculator",
-    liveURL: "https://yannismadu.github.io/calculator/",
-    descShort:
-      "A simple calculator app…or is it? Put in “2099” and see what happens 🕷️",
-    descFull: "Lorem ipsum",
-    highlights: ["HTML", "CSS", "JavaScript"],
-    image: calculatorScreenshot,
-  },
-  {
     title: "ADHD Stash",
     liveURL: "https://www.adhdstash.com/",
     descShort:
